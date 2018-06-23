@@ -1,3 +1,4 @@
 djsite/polls/__pycache__
 djsite/__pycache__
 djsite/polls/migraions/__pycache__
+**/*.pyc
