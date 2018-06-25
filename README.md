@@ -17,3 +17,7 @@ python manage.py runserver
 ```
 - Open your browser to access site:
 http://127.0.0.1:8000/polls
+
+- Administrator page: http://127.0.0.1:8000/admin
+    - user: `admin`
+    - password: `dj123456`
